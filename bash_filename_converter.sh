@@ -30,7 +30,7 @@ PHRASE+=" ${green}Ukończono${endColor}"
 echo -e $PHRASE
 
 PHRASE="Fraza 'Obraz': "
-rename 's/Obraz/1/' *.$EXT   # Zamieni tekst 'Obraz' na '1' spośród nazw plików
+rename 's/Obraz./1./' *.$EXT   # Zamieni tekst 'Obraz.' na '1.' spośród nazw plików
 PHRASE+=" ${green}Ukończono${endColor}"
 echo -e $PHRASE
 
