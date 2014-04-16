@@ -9,8 +9,10 @@ Obraz.png  Obraz (12).png  Obraz (145).png ... ect.
 
 Otuput list of files
 ```
-1.png  012.png  145.png ... ect.
+001.png  012.png  145.png ... ect.
 ```
+
+> Number of zeros depends on amount of images.
 
 # License
 MIT - Maciej Sypień
