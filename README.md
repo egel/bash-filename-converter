@@ -1,4 +1,4 @@
-# Bash mulit filename converter
+# Bash multi filename converter
 Convert mulitiple file name to ordered names friendly to linux.
 
 # Example
