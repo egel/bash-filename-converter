@@ -21,8 +21,8 @@ echo "Zmiana ścieżki na: "$(pwd)
 echo "Katalog zawiera pliki w liczbie:" $AMOUNT_OF_FILES
 
 echo ''
-echo "Usuwanie niepotrzebnych nazw z plików"
-echo '-------------------------------------'
+echo "Usuwanie niepotrzebnych elementow z nazwy kazdego pliku"
+echo '-------------------------------------------------------'
 
 PHRASE="Puste spacje: "
 rename "s/ *//g" *.$EXT      # Usunie wszystkie spacje spośród nazw plików
